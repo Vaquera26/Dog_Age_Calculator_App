@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 
 ## About the Project
-This project is a simple **Dog Age Calculator App** developed using **Kotlin** and **Jetpack Compose**. The application is designed to allow users to input a dog's age and view the calculated equivalent in human years. This project is targeted for **API 24 (Android 7.0 Nougat)** and higher.
+This project is a simple **Dog Age Calculator App** developed using **Kotlin** and **Jetpack Compose**. The application allows users to input a human's age and view the equivalent in dog years. This project is targeted for **API 24 (Android 7.0 Nougat)** and higher.
 
 ## Project Details
 - **Developer**: Juan Fernando Vaquera Sánchez
@@ -13,7 +13,7 @@ This project is a simple **Dog Age Calculator App** developed using **Kotlin** a
 - **Minimum API Level**: API 24 (Android 7.0 Nougat)
 
 ### Features
-- Simple text input field to enter the dog's age.
+- Simple text input field to enter the human age.
 - Display of cute dog images to enhance the user experience.
 
 ---
